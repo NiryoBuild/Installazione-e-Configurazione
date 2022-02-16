@@ -12,3 +12,6 @@ Scaricare **IMG** e **NIRYO STUDIO** dal [link](https://niryo.com/download/).
 
 ### GUIDA NIRYO:
 [Link](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html).
+
+### GUIDA PYNIRYO:
+[Link](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
