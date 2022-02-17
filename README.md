@@ -16,7 +16,8 @@ Può essere necessario collegarsi con il raspberry presente nel Niryo con il pro
 ---
 
 ### GUIDE
-Per ulteriori informazioni consigliamo di leggere la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e in caso sia necessario utilizzare Python installare la seguente [libreria](https://pypi.org/project/pyniryo/#installation) e eventualmente consultare la [guida_pyniryo](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
+Per ulteriori informazioni consigliamo di leggere la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e le [specifiche tecniche](https://github.com/NiryoBuild/Installazione-e-Configurazione/blob/main/Mechanical%20Specifications.pdf).
+In caso sia necessario utilizzare `Python` installare la seguente [libreria](https://pypi.org/project/pyniryo/#installation) e eventualmente consultare la [guida_pyniryo](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
 
 ---
 
