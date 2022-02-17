@@ -6,7 +6,7 @@
 
 Scaricare **IMG** e **NIRYO STUDIO** dal [link](https://niryo.com/download/).
 
-### COLLEGAMENTO PC - NIRYO CON H:
+### COLLEGAMENTO PC - NIRYO CON SSH:
 1) Collegarsi alla rete hotspot, generata in automatico dal Niryo (SSID: `NiryoRobot ...`, PASSWORD: `niryorobot`)
 2) Collegarsi con ssh (USERNAME: `niryo`, PASSWORD: `robotics`, IP: (`10.10.10.10` --> rete hotspot, `169.254.200.200` --> se connesso in ethernet con dhcp disabilitato))
 
