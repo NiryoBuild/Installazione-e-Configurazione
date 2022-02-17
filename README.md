@@ -16,8 +16,8 @@ Può essere necessario collegarsi con il raspberry presente nel Niryo con il pro
 ---
 
 ### INFORMAZIONI
-Il braccio robotico **Niryo** presenta 6 motori ed un sensore magnetico _(Collision detection sensorMagnetic sensor (motor))_.
-Inoltre è possibile aggiornare gli step motor (per maggiori informazioni consultare il seguente [link](https://niryo.com/docs/niryo-one/update-your-robot/update-niryo-steppers/)).
+Il braccio robotico **Niryo** presenta 6 motori ed un sensore magnetico _(Collision detection sensorMagnetic sensor (motor) AS5600)_.
+Inoltre su ogni motore sono presenti delle **porte micro USB** (per maggiori informazioni consultare il seguente [link](https://niryo.com/docs/niryo-one/update-your-robot/update-niryo-steppers/)).
 
 ### GUIDE
 Per ulteriori informazioni consigliamo di leggere la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e le [specifiche tecniche](https://github.com/NiryoBuild/Installazione-e-Configurazione/blob/main/Mechanical%20Specifications.pdf).
