@@ -1,17 +1,29 @@
-# Installazione-e-Configurazione
+# Installazione e Configurazione
 
 ### INSTALLAZIONE:
-1) Flashare l'img per il raspberry
-2) Installare Niryo Studio
+Per poter utilizzare il braccio robotico _niryo_ è necessario:
+1) Scaricare **img** e **niryo studio** dal seguente [link](https://niryo.com/download/).
+2) Flashare l'**img** per il raspberry presente all'interno del Niryo.
+3) Installare Niryo Studio.
 
-Scaricare **IMG** e **NIRYO STUDIO** dal [link](https://niryo.com/download/).
+---
 
 ### COLLEGAMENTO PC - NIRYO CON SSH:
+Può essere necessario collegarsi con il raspberry presente nel Niryo con il protocollo SSH. Per poterlo fare bisogna:
 1) Collegarsi alla rete hotspot, generata in automatico dal Niryo (SSID: `NiryoRobot ...`, PASSWORD: `niryorobot`)
 2) Collegarsi con ssh (USERNAME: `niryo`, PASSWORD: `robotics`, IP: (`10.10.10.10` --> rete hotspot, `169.254.200.200` --> se connesso in ethernet con dhcp disabilitato))
 
-### GUIDA NIRYO:
-[Link](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html).
+---
 
-### GUIDA PYNIRYO:
-[Link](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
+### GUIDE
+Per ulteriori informazioni consigliamo di consultare la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e la [guida_pyniryo](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
+
+---
+
+### AUTORI
+
+- [@GabrieleFerrero](https://github.com/GabrieleFerrero)
+- [@VittoriaDutto](https://github.com/vikydutto)
+- [@AnthonyRuggero](https://github.com/AnthonyRuggero)
+- [@IsabellaBianco](https://github.com/IsabellaBianco)
+
