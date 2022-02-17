@@ -11,7 +11,7 @@ Per poter utilizzare il braccio robotico _niryo_ è necessario:
 ### COLLEGAMENTO PC - NIRYO CON SSH:
 Può essere necessario collegarsi con il raspberry presente nel Niryo con il protocollo SSH. Per poterlo fare bisogna:
 1) Collegarsi alla rete hotspot, generata in automatico dal Niryo (SSID: `NiryoRobot ...`, PASSWORD: `niryorobot`)
-2) Collegarsi con ssh (USERNAME: `niryo`, PASSWORD: `robotics`, IP: (`10.10.10.10` --> rete hotspot, `169.254.200.200` --> se connesso in ethernet con dhcp disabilitato))
+2) Collegarsi con ssh (USERNAME: `niryo`, PASSWORD: `robotics`, IP: (`10.10.10.10` → rete hotspot, `169.254.200.200` → se connesso in ethernet con dhcp disabilitato))
 
 ---
 
