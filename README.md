@@ -27,7 +27,7 @@ Per poter spegnere il **Niryo** premere il pulsante posizionato sopra la base e 
 ---
 
 ### GUIDE
-Per ulteriori informazioni consigliamo di leggere la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e le [specifiche tecniche](https://github.com/NiryoBuild/Installazione-e-Configurazione/blob/main/Mechanical%20Specifications.pdf).
+Per ulteriori informazioni consigliamo di leggere la [guida_niryo](https://docs.niryo.com/product/ned/v3.1.1/en/source/software/niryo_studio.html) e le [specifiche tecniche](https://github.com/NiryoBuild/Installazione-e-Configurazione/blob/main/specifiche_meccaniche.pdf).
 In caso sia necessario utilizzare `Python` installare la seguente [libreria](https://pypi.org/project/pyniryo/#installation) e eventualmente consultare la [guida_pyniryo](https://docs.niryo.com/dev/pyniryo/v1.0.5/en/source/examples/examples_vision.html).
 
 ---
