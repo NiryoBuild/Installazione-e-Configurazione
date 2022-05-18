@@ -38,4 +38,4 @@ In caso sia necessario utilizzare `Python` installare la seguente [libreria](htt
 - [@VittoriaDutto](https://github.com/vikydutto)
 - [@AnthonyRuggero](https://github.com/AnthonyRuggero)
 - [@IsabellaBianco](https://github.com/IsabellaBianco)
-
+- [@AndreaBosticardo](https://github.com/Bosticardo-Andrea)
