@@ -32,6 +32,13 @@ In caso sia necessario utilizzare `Python` installare la seguente [libreria](htt
 
 ---
 
+### COMPONENTI AGGIUNTIVI
+Per ottimizzare al meglio il Niryo abbiamo installato alcuni componenti aggiuntivi:
+- Una punta in resina per la calibrazione dei _workspace_ dato che non era stata acquistata quella originale Niryo
+- Un prolungamento del braccio per creare un appoggio fisso alla telecamera che non essendo originale Niryo non poteva essere collegata.
+  <img scr="immagini/prolungamento_braccio.jpeg" width="40%"><img scr="immagini/prolungamento_braccio_2.jpeg" width="40%">
+---
+
 ### AUTORI
 
 - [@GabrieleFerrero](https://github.com/GabrieleFerrero)
